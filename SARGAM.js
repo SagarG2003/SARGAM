@@ -12,6 +12,6 @@ const handlePassword = () => {
 const signUpButton = document.getElementById("submit"); 
 
 signUpButton.addEventListener('click', () => {
-  window.location.href = 'http://127.0.0.1:5500/websites.html/SARGAM/support.html'; 
+  window.location.href = 'http://127.0.0.1:5500/payment.html'; 
 });
 
