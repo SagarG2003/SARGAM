@@ -2,6 +2,11 @@
 SARGAM is a paid audio streaming website developed using HTML,CSS and JavaScript.
 It has its own developed Log In, Sign Up and Payment Portal page. All the features are new and fully functional.
 
+# TECH STACK
+~HTML 
+~CSS
+~JavaScript
+
 # SCREENSHOTS
 ![Screenshot 2023-07-08 095702](https://github.com/SagarG2003/SARGAM/assets/113847560/693b659f-8f37-4425-9743-1b508218abf5)
 ![Screenshot 2023-07-08 095723](https://github.com/SagarG2003/SARGAM/assets/113847560/7418f36d-45be-4fa7-bc93-eabf3cb871ee)
